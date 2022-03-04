@@ -54,7 +54,7 @@ legend('Vout','V3');
 
 
 %% AC sweep case 
-B(6) = 10;   % Vin = 1
+B(6) = 10;   % Vin = 10
 w = linspace(0,100,100);
 
 for n = 1:100
